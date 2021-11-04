@@ -1,0 +1,7 @@
+LIBRARY "CryptoAddIn"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
